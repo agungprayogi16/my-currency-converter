@@ -2,7 +2,7 @@
 
 // src/App.jsx atau src/App.tsx
 import React from "react";
-import CurrencyConverter from "./components/CurrencyConverter";
+import CurrencyConverter from ".//components/CurrencyConverter";
 
 const App = () => {
   return (
